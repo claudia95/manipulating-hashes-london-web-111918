@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-second_challenge[groceries][dairy].values
+dairy_array = second_challenge[groceries][dairy].values
   
 
 end
