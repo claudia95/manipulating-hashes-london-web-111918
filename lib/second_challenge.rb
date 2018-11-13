@@ -12,4 +12,3 @@ groceries.value.flatten
 
 end
 
-second_challenge
